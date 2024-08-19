@@ -2,6 +2,8 @@
 
 Watchly is a video streaming platform that allows users to upload, watch, and manage videos. It also includes features for user authentication, subscription management, and video watch history tracking.
 
+[System Design Document](./sys-design-document.md)
+
 ## Table of Contents
 
 - [Features](#features)

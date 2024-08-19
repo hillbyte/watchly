@@ -50,6 +50,7 @@ The architecture follows the Model-View-Controller (MVC) pattern:
 ### High-Level Architecture Diagram
 
 [Architecture Diagram](./public/diagram-export.png)
+![[./public/diagram-export.png]]
 
 ```
 Client <-> Express Server <-> MongoDB
